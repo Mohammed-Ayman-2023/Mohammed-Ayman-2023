@@ -1,25 +1,21 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=block&text=Brownian%20Labs&fontSize=30&height=160&color=0:0F172A,50:1D4ED8,100:7C3AED&stroke=7DD3FC&animation=twinkling&fontAlign=50" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=7DD3FC&center=true&vCenter=true&width=720&lines=Brownian+Labs;AI+Researcher;Applied+Mathematician;DeepTech+Builder" />
 </div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1100&color=93C5FD&center=true&vCenter=true&width=780&lines=MOHAMMED+AYMAN+ELBOGHDADI;AI+RESEARCHER;APPLIED+MATHEMATICIAN;DEEPTECH+BUILDING" />
-</h1>
+<h1 align="center">Mohammed Ayman Elboghdadi</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Research-Lab-0F172A?style=for-the-badge&logo=scientific" />
-  <img src="https://img.shields.io/badge/Math-Modeling-60A5FA?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI-Systems-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Research-MLsys-0F172A?style=for-the-badge&labelColor=0F172A&color=7DD3FC" />
+  <img src="https://img.shields.io/badge/Math-Optimization-0F172A?style=for-the-badge&labelColor=0F172A&color=A78BFA" />
+  <img src="https://img.shields.io/badge/AI-Diffusion-0F172A?style=for-the-badge&labelColor=0F172A&color=34D399" />
+  <img src="https://img.shields.io/badge/Build-Products-0F172A?style=for-the-badge&labelColor=0F172A&color=F59E0B" />
 </p>
 
-<pre align="center" style="background:#0B1120; color:#E2E8F0; border:1px solid #1D4ED8; border-radius:18px; padding:18px; font-family:'JetBrains Mono', monospace; line-height:1.7; white-space:pre-wrap; font-size:13px;">
-∂u/∂t = A(u) + B(θ) + ε
-    where  u ∈ ℝ^n, θ ∈ Θ, and research becomes product.
-
-[systems] learning under uncertainty
-[math] modeling structure and dynamics
-[build] translating theory into tooling
-[goal] deep technology for real-world impact
+<pre align="center" style="background:#0B1120; color:#E2E8F0; border:1px solid #1E293B; border-radius:14px; padding:18px; font-family:'JetBrains Mono', monospace; font-size:13px; line-height:1.7; white-space:pre-wrap;">
+[Lab] Brownian Labs
+[Focus] ML systems • optimization • diffusion • applied math
+[Method] theory → computation → simulation → product
+[Goal] build AI tools that move from insight to impact
 </pre>
 
 <p align="center">
@@ -35,13 +31,13 @@
 </p>
 
 <p align="center">
-  I am an <b>AI researcher</b>, <b>applied mathematician</b>, and <b>cross-stack builder</b>
+  I am an <b>AI researcher</b>, <b>applied mathematician</b>, and <b>deep-tech builder</b>
   <br>
-  working at the intersection of <b>machine learning</b>, <b>optimization</b>, <b>diffusion models</b>, and <b>deep technology</b>.
+  working at the intersection of <b>machine learning</b>, <b>optimization</b>, <b>diffusion models</b>, and <b>research-to-product engineering</b>.
 </p>
 
 <p align="center">
-  Building <b>Brownian Labs</b> — a research-driven initiative for transforming rigorous scientific ideas into deployable AI systems and tools.
+  Building <b>Brownian Labs</b> as a research-oriented effort to turn mathematical rigor and AI systems into practical scientific tools.
 </p>
 
 <div align="center">
@@ -68,15 +64,13 @@
 
 ## Current Direction
 
-I study how mathematical structure, learning dynamics, and system design interact to produce robust AI systems.
-
-My work connects:
+I build systems that connect:
 - theory
 - computation
 - simulation
-- applied deployment
+- deployment
 
-The goal is to take ideas from the frontier of research and convert them into meaningful scientific tools and products.
+The goal is to move deep technology from research into measurable outcomes, tools, and products.
 
 ## Technical Stack
 
@@ -96,5 +90,5 @@ Python • PyTorch • JAX • NumPy • Pandas • SciPy • MATLAB • C++ •
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mohammed-Ayman-2023&label=Profile+Views&color=60A5FA" />
+  <img src="https://komarev.com/ghpvc/?username=Mohammed-Ayman-2023&label=Profile+Views&color=7DD3FC" />
 </div>
