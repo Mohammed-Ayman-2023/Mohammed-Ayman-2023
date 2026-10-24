@@ -1,21 +1,25 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=7DD3FC&center=true&vCenter=true&width=720&lines=Brownian+Labs;AI+Researcher;Applied+Mathematician;DeepTech+Builder" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&text=Brownian%20Labs&fontSize=32&height=170&color=0:0B1220,50:0EA5E9,100:8B5CF6&stroke=7DD3FC&animation=twinkling&fontAlign=50" />
 </div>
 
 <h1 align="center">Mohammed Ayman Elboghdadi</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Research-MLsys-0F172A?style=for-the-badge&labelColor=0F172A&color=7DD3FC" />
-  <img src="https://img.shields.io/badge/Math-Optimization-0F172A?style=for-the-badge&labelColor=0F172A&color=A78BFA" />
-  <img src="https://img.shields.io/badge/AI-Diffusion-0F172A?style=for-the-badge&labelColor=0F172A&color=34D399" />
-  <img src="https://img.shields.io/badge/Build-Products-0F172A?style=for-the-badge&labelColor=0F172A&color=F59E0B" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&pause=1000&color=7DD3FC&center=true&vCenter=true&width=760&lines=AI+Researcher;Applied+Mathematician;Deep-Tech+Founder;Systems+Builder" />
 </p>
 
-<pre align="center" style="background:#0B1120; color:#E2E8F0; border:1px solid #1E293B; border-radius:14px; padding:18px; font-family:'JetBrains Mono', monospace; font-size:13px; line-height:1.7; white-space:pre-wrap;">
-[Lab] Brownian Labs
-[Focus] ML systems • optimization • diffusion • applied math
-[Method] theory → computation → simulation → product
-[Goal] build AI tools that move from insight to impact
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-Lab-0F172A?style=for-the-badge&labelColor=0F172A&color=7DD3FC" />
+  <img src="https://img.shields.io/badge/Math-Research-0F172A?style=for-the-badge&labelColor=0F172A&color=A78BFA" />
+  <img src="https://img.shields.io/badge/ML-Systems-0F172A?style=for-the-badge&labelColor=0F172A&color=34D399" />
+  <img src="https://img.shields.io/badge/DeepTech-Products-0F172A?style=for-the-badge&labelColor=0F172A&color=F59E0B" />
+</p>
+
+<pre align="center" style="background:#0B1120; color:#E2E8F0; border:1px solid #334155; border-radius:16px; padding:18px; font-family:'JetBrains Mono', monospace; font-size:13px; line-height:1.75; white-space:pre-wrap;">
+[Brownian Labs]
+Mission: turn mathematical insight into deployable AI systems.
+Focus: ML systems • optimization • diffusion • applied science
+Mode: research-driven product building for real-world impact
 </pre>
 
 <p align="center">
@@ -31,13 +35,13 @@
 </p>
 
 <p align="center">
-  I am an <b>AI researcher</b>, <b>applied mathematician</b>, and <b>deep-tech builder</b>
+  I build AI systems at the intersection of <b>mathematics</b>, <b>machine learning</b>, and <b>deep technology</b>.
   <br>
-  working at the intersection of <b>machine learning</b>, <b>optimization</b>, <b>diffusion models</b>, and <b>research-to-product engineering</b>.
+  My work sits between <b>research</b>, <b>systems design</b>, and <b>product thinking</b>.
 </p>
 
 <p align="center">
-  Building <b>Brownian Labs</b> as a research-oriented effort to turn mathematical rigor and AI systems into practical scientific tools.
+  Brownian Labs is my vision for a research-first AI lab: building rigorous tools, meaningful systems, and scalable technology from theory into practice.
 </p>
 
 <div align="center">
@@ -55,22 +59,22 @@
 ## Research Focus
 
 - Machine Learning Systems (MLsys)
-- Reinforcement Learning and Optimization
-- Applied Mathematics for Real-World Problems
-- Generative Models and Diffusion
-- Research-to-Product Engineering
+- Optimization and Reinforcement Learning
+- Applied mathematics for real-world problems
+- Generative models and diffusion
+- Research-to-product engineering
 
 ---
 
-## Current Direction
+## What I Build
 
-I build systems that connect:
-- theory
-- computation
-- simulation
-- deployment
+I work across the full stack of AI research and product development:
+- theory and modeling
+- experimentation and simulation
+- systems design and deployment
+- product-oriented engineering
 
-The goal is to move deep technology from research into measurable outcomes, tools, and products.
+The goal is to turn rigorous ideas into tools that are measurable, useful, and scalable.
 
 ## Technical Stack
 
@@ -86,7 +90,7 @@ Python • PyTorch • JAX • NumPy • Pandas • SciPy • MATLAB • C++ •
 </div>
 
 <p align="center">
-  <em>“Building mathematically grounded AI systems for the future of deep technology.”</em>
+  <em>“Building deep technology from insight into systems that matter.”</em>
 </p>
 
 <div align="center">
