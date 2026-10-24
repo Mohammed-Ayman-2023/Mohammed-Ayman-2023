@@ -23,7 +23,7 @@
 <p align="center">
   I am an <b>AI Researcher</b>, <b>ML Enigneer</b>, <b>Applied Mathematician</b>, and <b>cross-stack builder</b> working at the intersection of
   <br>
-  <b>machine learning</b>, <b>Reinforcement Learning</b>, <b>MLsys</b>, <b>Diffusion Models</b>, and <b>Deeptech innovation</b>.
+  <b>Machine learning</b>, <b>Reinforcement Learning</b>, <b>MLsys</b>, <b>Diffusion Models</b>, and <b>Deeptech innovation</b>.
 </p>
 
 <p align="center">
