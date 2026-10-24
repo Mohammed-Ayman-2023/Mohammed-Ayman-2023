@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&text=Brownian%20Labs&fontSize=32&height=170&color=0:0B1220,50:0EA5E9,100:8B5CF6&stroke=7DD3FC&animation=twinkling&fontAlign=50" />
 </div>
 
-<h1 align="center">Mohammed Ayman Elboghdadi</h1>
+<h1 align="center">Mohammed A.Elboghdadi</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&pause=1000&color=7DD3FC&center=true&vCenter=true&width=760&lines=AI+Researcher;Applied+Mathematician;Deep-Tech+Founder;Systems+Builder" />
