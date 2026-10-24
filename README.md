@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14b8a6,100:7c3aed&height=180&text=Brownian%20Labs&fontAlign=50&fontSize=30&animation=scaleIn&stroke=67e8f9" />
 </div>
 
-<h1 align="center">Mohammed Ayman</h1>
+<h1 align="center">Mohammed A.Elboghdadi</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=900&color=8B5CF6&center=true&vCenter=true&width=700&lines=AI+Researcher;Applied+Mathematician;Full-Stack+Builder;Building+Brownian+Labs" />
@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
-  Building <b>Brownian Labs</b> — a vision for a future AI DeepTech research lab in Egypt.
+  Building <b>Brownian Labs</b> a vision for a future AI DeepTech research lab in Egypt.
 </p>
 
 <div align="center">
@@ -43,11 +43,10 @@
 
 ## Research Focus
 
-- AI for scientific discovery
-- digital twins and systems modeling
+- Machine Learning Systems (MLsys)
+- Reinforcement Learning, Optimization and Post-training 
 - applied mathematics for real-world problems
-- computational neuroscience and physiological systems
-- reinforcement learning and simulation-driven intelligence
+- Generative Models & Diffusion Models
 - research-to-product engineering
 
 ---
@@ -57,12 +56,10 @@
 I build mathematically grounded AI systems that connect:
 - theory
 - computation
-- simulation
+- Systems & simulation
 - real-world application
 
 The goal is to push deep technology from research into meaningful products and scientific tools.
-
----
 
 ## Technical Stack
 
