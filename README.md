@@ -45,9 +45,9 @@
 
 - Machine Learning Systems (MLsys)
 - Reinforcement Learning, Optimization and Post-training 
-- applied mathematics for real-world problems
+- Applied mathematics for real-world problems
 - Generative Models & Diffusion Models
-- research-to-product engineering
+- Research-to-product engineering
 
 ---
 
