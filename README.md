@@ -21,9 +21,9 @@
 </p>
 
 <p align="center">
-  I am an <b>AI Researcher</b>, <b>Applied Mathematician</b>, and <b>cross-stack builder</b> working at the intersection of
+  I am an <b>AI Researcher</b>,<b>ML Enigneer</b> <b>Applied Mathematician</b>, and <b>cross-stack builder</b> working at the intersection of
   <br>
-  <b>machine learning</b>, <b>scientific computing</b>, <b>mathematical modeling</b>, and <b>deeptech innovation</b>.
+  <b>machine learning</b>, <b>Reinforcement Learning</b>, <b>MLsys</b>, and <b>Deeptech innovation</b>.
 </p>
 
 <p align="center">
