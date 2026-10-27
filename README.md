@@ -60,9 +60,12 @@ Mode: research-driven product building for real-world impact
 
 - Machine Learning Systems (MLsys)
 - Optimization and Reinforcement Learning
-- Applied mathematics for real-world problems
 - Generative models and diffusion
+- Theoretical Computer Science
+- Statistical Learning Theory
+- Applied mathematics for real-world problems
 - Research-to-product engineering
+- Product Management 
 
 ---
 
